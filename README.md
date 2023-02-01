@@ -24,6 +24,7 @@ Please feel free to contribute this list.
 
 ## Datasets
 
+- Leveraging Sound and Wrist Motion to Detect Activities of Daily Living with Commodity Smartwatches [[**link**]](https://github.com/Human-Signals-Lab/Sound-and-Wrist-Motion-for-Activities-of-Daily-Living-with-Smartwatches)
 - Capture-24 [[**link**](https://github.com/OxWearables/capture24)]
 - mHealth [[**link**](http://archive.ics.uci.edu/ml/datasets/mhealth+dataset)]
 - HHAR [[**link**](https://github.com/yscacaca/HHAR-Data-Process)]
